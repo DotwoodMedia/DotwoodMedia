@@ -9,7 +9,7 @@
 <img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png" /> 
 <img align="left" alt="discord.js" width="26px" src="https://i.imgur.com/SI1DZf3.png" />
 <img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
-<img align="left" alt="php" width="26px" src="https://www.php.net//images/logos/new-php-logo.svg" />
+<img align="left" alt="php" width="26px" src="https://pngimg.com/uploads/php/php_PNG43.png" /> <br />
 
 # Contact
 * Website: [Dotwood Media](https://dotwood.media/)
