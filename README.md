@@ -1,7 +1,7 @@
 # Introduction
 - 💻 Proud developer of [Dbot](https://discord.com/oauth2/authorize?client_id=798144456528363550&scope=bot&permissions=8)
 - 🌱 Learning new things every day
-- 
+- 👨‍💻 Works on Dotwood Media
 
 # Languages 
 <img align="left" alt="HTML" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" />
