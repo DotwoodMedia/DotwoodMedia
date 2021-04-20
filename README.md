@@ -13,6 +13,6 @@
 
 # Contact
 * Website: [Dotwood Media](https://dotwood.media/)
-* Discord: </Pascal>#4627
+* Discord: &lt;/Pascal>#4627
 * Dbot server: [Invite](https://discord.gg/56FZySQaY7)
 * E-mail: info@dotwood.media
