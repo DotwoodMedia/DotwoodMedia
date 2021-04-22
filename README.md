@@ -4,9 +4,6 @@
 - 👨‍💻 Works on Dotwood Media
 
 <img src="https://github-readme-stats.vercel.app/api?username=dotwoodmedia&show_icons=true" />
-<a href="https://top.gg/bot/798144456528363550">
-  <img src="https://top.gg/api/widget/798144456528363550.svg" alt="Dbot" />
-  </a>
 
 # Languages 
 <img align="left" alt="HTML" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" />
@@ -21,3 +18,7 @@
 * Discord: &lt;/Pascal>#4627
 * Dbot server: [Invite](https://discord.gg/56FZySQaY7)
 * E-mail: info@dotwood.media
+
+<a href="https://top.gg/bot/798144456528363550">
+  <img src="https://top.gg/api/widget/798144456528363550.svg" alt="Dbot" />
+  </a>
