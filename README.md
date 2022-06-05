@@ -1,5 +1,5 @@
 # Introduction
-- 💻 Proud developer of [Dbot](https://discord.com/oauth2/authorize?client_id=798144456528363550&scope=bot&permissions=8)
+- 💻 Full stack web developer
 - 🌱 Learning new things every day
 - 👨‍💻 Works on Dotwood Media
 
