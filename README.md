@@ -15,10 +15,4 @@
 
 # Contact
 * Website: [Dotwood Media](https://dotwood.media/)
-* Discord: &lt;/Pascal>#4627
-* Dbot server: [Invite](https://discord.gg/56FZySQaY7)
 * E-mail: info@dotwood.media
-
-<a href="https://top.gg/bot/798144456528363550">
-  <img src="https://top.gg/api/widget/798144456528363550.svg" alt="Dbot" />
-  </a>
