@@ -17,11 +17,12 @@
 <br>
 
 # 🔥┆Github Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=dotwoodmedia&show_icons=true&theme=algolia" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=dotwoodmedia&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="dotwoodmedia" height="192px"/>
-</p>
+![profile] 
+![languages]
 
+
+[profile]: https://github-readme-stats.vercel.app/api?username=DotwoodMedia&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true
+[languages]: https://github-readme-stats.vercel.app/api/top-langs/?username=DotwoodMedia&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&layout=compact
 
 # 📱┆My socials
 <p align="center">
