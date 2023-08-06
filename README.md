@@ -1,65 +1,41 @@
-<h1 align="center">Hey, I'm Pascal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full%20stack%20developer&center=true&width=500&height=50"></a>
-</p>
+![Header](./GitHubHeader.jpg)
 
-<p align="center"> 
-	<img src="https://img.shields.io/github/stars/dotwoodmedia?style=for-the-badge" alt="dotwoodmedia" />
-    <img src="https://img.shields.io/github/followers/dotwoodmedia?style=for-the-badge" alt="dotwoodmedia" />
-</p>
+Hey there 👋 <br />
+I'm Pascal, a passionate web developer. My days are filled with crafting beautiful websites, where I merge my love for design and functionality. I consistently embrace new learning opportunities and am always eager to acquire fresh skills. My expertise primarily revolves around utilizing JavaScript and TypeScript, enabling me to construct full-fledged websites with seamless front-end and back-end functionality. Alongside my unwavering commitment to quality, my aim is to turn each project into an engaging and successful experience.
 
-# 🙋‍♂️ ┆About me
-- 🏫 Student at Summa College
-- 💻 Full stack web developer
-- 👨‍💻 Works on Dotwood Media
-- 🌱 Learning new things every day
+Want to know more about me? [Check out my portfolio](https://dotwood.media/portfolio).
 
-<br>
+# 😎┆Frontend Skills
+[![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/TR/html52/)
+[![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
+[![Remix.js](https://img.shields.io/badge/-Remix.js-7E63F3?style=for-the-badge&logo=remix&logoColor=white)](https://remix.run/)
+[![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
+[![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white)](https://nuxtjs.org/)
+[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
-# 🔥┆Github Stats
-![profile] 
-![languages]
+# 💻┆Backend Skills
+[![Nest.js](https://img.shields.io/badge/-Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
+[![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
 
+# 🚀┆Github stats
+![Top Langs](https://github-readme-stats-dotwoodmedia.vercel.app/api/top-langs/?username=dotwoodmedia&theme=github_dark)
+![Dotwood Media's GitHub stats](https://github-readme-stats-dotwoodmedia.vercel.app/api?username=dotwoodmedia&show_icons=true&theme=github_dark)
 
-[profile]: https://github-readme-stats.vercel.app/api?username=DotwoodMedia&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true
-[languages]: https://github-readme-stats.vercel.app/api/top-langs/?username=DotwoodMedia&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&layout=compact
+# 📫┆Let's Connect
 
-# 📱┆My socials
-<p align="center">
-	<a href="https://github.com/DotwoodMedia"><img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-    &emsp;
-	<a href="https://www.linkedin.com/in/pascal-van-stiphout/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    &emsp;
-	<a href="https://www.facebook.com/dotwoodmedia"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-    &emsp;
-	<a href="https://www.instagram.com/dotwood.media/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-    &emsp;
-	<a href="https://twitter.com/dotwoodmedia"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-    &emsp;
-	<a href="https://dotwood.media/"><img src="https://img.shields.io/badge/website-%232563eb.svg?style=for-the-badge" alt="Snap Chat"/></a>
-</p>
+- GitHub: [@DotwoodMedia](https://github.com/DotwoodMedia)
+- LinkedIn: [Pascal van Stiphout](https://www.linkedin.com/in/pascal-van-stiphout)
+- Facebook: [DotwoodMedia](https://www.facebook.com/DotwoodMedia)
+- Instagram: [@Dotwood.media](https://www.instagram.com/Dotwood.media)
+- Twitter: [@DotwoodMedia](https://twitter.com/DotwoodMedia)
+- Website: [dotwood.media](https://dotwood.media/)
 
-# 💻┆My Programming Languages
-<p align="center"> 
-   <img alt="HTML" src="https://img.shields.io/badge/html-%23e44d25.svg?style=for-the-badge&logo=html5&logoColor=white">
-  &emsp;
-  <img alt="CSS" src="https://img.shields.io/badge/CSS-%23264de4.svg?style=for-the-badge&logo=css3&logoColor=white">
-  &emsp;
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
-  &emsp;
-    <img alt="PHP" src="https://img.shields.io/badge/PHP%20-%23777bb3.svg?style=for-the-badge&logo=php&logoColor=white">
-</p>
-
-# 🪴┆My Programming Frameworks
-<p align="center"> 
-   <img alt="Laravel" src="https://img.shields.io/badge/Laravel-%23ff2d20.svg?style=for-the-badge&logo=laravel&logoColor=white">
-  &emsp;
-  <img alt="React" src="https://img.shields.io/badge/-React.js-61dafb?style=for-the-badge&logo=react&logoColor=black">
-  &emsp;
-   <img alt="React" src="https://img.shields.io/badge/-Tailwind.css-07b6d5?style=for-the-badge&logo=tailwindcss&logoColor=black">
-  &emsp;
-  <img alt="React" src="https://img.shields.io/badge/-Vue.js-41b883?style=for-the-badge&logo=vue.js&logoColor=black">
-</p>
+Feel free to connect with me on these platforms! Whether you're interested in coding, design, or just want to share a virtual high-five, I'm always up for a chat. 🤝🚀
 
 -----
-Last Edited on: 07/07/2022
+Last Edited on: 6 August 2023
