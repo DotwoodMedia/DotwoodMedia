@@ -22,10 +22,12 @@ Want to know more about me? [Check out my portfolio](https://dotwood.media/portf
 [![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
 
+# 🔥┆Github streak
+![GitHub Streak](https://streak-stats.demolab.com?user=DotwoodMedia&theme=dark&hide_border=true)
+
 # 🚀┆Github stats
 ![Top Langs](https://github-readme-stats-dotwoodmedia.vercel.app/api/top-langs/?username=dotwoodmedia&theme=github_dark)
 ![Dotwood Media's GitHub stats](https://github-readme-stats-dotwoodmedia.vercel.app/api?username=dotwoodmedia&show_icons=true&theme=github_dark)
-![GitHub Streak](https://streak-stats.demolab.com?user=DotwoodMedia&theme=dark&hide_border=true)
 
 # 📫┆Let's Connect
 
