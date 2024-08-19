@@ -6,21 +6,10 @@ I'm Pascal, a passionate web developer. My days are filled with crafting beautif
 Want to know more about me? [Check out my portfolio](https://dotwood.media/portfolio).
 
 # 😎┆Frontend Skills
-[![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/TR/html52/)
-[![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
-[![Remix.js](https://img.shields.io/badge/-Remix.js-7E63F3?style=for-the-badge&logo=remix&logoColor=white)](https://remix.run/)
-[![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
-[![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white)](https://nuxtjs.org/)
-[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,remix,vue,nuxt,next,tailwind&theme=dark)
 
 # 💻┆Backend Skills
-[![Nest.js](https://img.shields.io/badge/-Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
-[![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-[![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
+![Backend Skills](https://skillicons.dev/icons?i=nest,php,laravel&theme=dark)
 
 # 🔥┆Github streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=DotwoodMedia&theme=dark&hide_border=true)
@@ -41,4 +30,4 @@ Want to know more about me? [Check out my portfolio](https://dotwood.media/portf
 Feel free to connect with me on these platforms! Whether you're interested in coding, design, or just want to share a virtual high-five, I'm always up for a chat. 🤝🚀
 
 -----
-Last Edited on: 6 August 2023
+Last Edited on: 19 August 2024
