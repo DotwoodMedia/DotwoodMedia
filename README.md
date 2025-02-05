@@ -3,7 +3,7 @@
 ### Hey there 👋 <br />
 I'm Pascal, a passionate web developer. My days are filled with crafting beautiful websites, where I merge my love for design and functionality. I consistently embrace new learning opportunities and am always eager to acquire fresh skills. My expertise primarily revolves around utilizing JavaScript and TypeScript, enabling me to construct full-fledged websites with seamless front-end and back-end functionality. Alongside my unwavering commitment to quality, my aim is to turn each project into an engaging and successful experience.
 
-Want to know more about me? [Check out my portfolio](https://dotwood.media/portfolio).
+Want to know more about me? [Check out my portfolio](https://dotwood.media/).
 
 # 😎┆Frontend Skills
 ![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,remix,vue,nuxt,next,tailwind&theme=dark)
